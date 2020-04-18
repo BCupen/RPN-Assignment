@@ -156,6 +156,7 @@ int main(){
 			cout<<"Answer= "<<result<<endl<<endl;
 			out<<"Answer= "<<result<<endl<<endls;
 		}
+		else out<<"Error: Unbalanced paranthesis."<<endl<<endl;
 		getline(in,infix);
 	}
 	

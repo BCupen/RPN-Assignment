@@ -1,0 +1,18 @@
+Infix Expression: 4*2^ (2*3)
+Outfix Expression: 4223*^*
+Answer= 256
+Infix Expression: (8 + 6 * 5)/(8 - 3 * 2)
+Outfix Expression: 865*+832*-/
+Answer= 19
+Infix Expression: (9-9) * ((5 - 4 * 2)/3/5) * 2
+Outfix Expression: 99-542*-35//2**
+Answer= 0
+Infix Expression: (8/2/2)- 3^2
+Outfix Expression: 822//32^-
+Answer= -1
+Infix Expression: 4 * (8 - 3) ^ ((7-2)) - 8*8
+Outfix Expression: 483-72-^*88*-
+Answer= 12436
+Infix Expression: 4 * (7-6) / (9-5) - 8*8
+Outfix Expression: 476-95-/*88*-
+Answer= -64
